@@ -1,17 +1,16 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Systems immunology lab at the University of Pittsburgh
+lab_name: Jishnu Lab
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Simar, Swapnil and the Jishnu laboratory
+institution: UPitt
+email: yadavsi@pitt.edu
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+ As a computational systems immunology lab, our research focuses on the development and use of novel systems approaches to analyze high-dimensional immunological datasets, and elucidate molecular mechanisms of immunological disorders. We are currently working on using network systems and functional genomic approaches to perform multi-scale integration of genomic and epigenomic datasets with biological networks to identify molecular phenotypes underlying these immunological disorders. We also use statistical and machine-learning techniques to integrate multi-omic datasets (genomic, transcriptomic, proteomic, metabolomic and antibody-omic) and elucidate molecular mechanisms of immune regulation and dysregulation.
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://simaryadav.github.io"
+twitter_username: simaryadav
+github_username:  simaryadav
 images_dir: "/images/"
 
 # Build settings
