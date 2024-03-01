@@ -1,7 +1,7 @@
 - name: Genetic and molecular mechanisms of treatment resistance in DLBCL
   description: >
     We published “SLIDE: Significant Latent factor Interaction Discovery and Exploration across biological domains” in Nature Methods
-  funding: Terry Fox Research Institute
+  Date: February 2024
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
   photo: projects/dhitsig.png
@@ -9,7 +9,7 @@
 - name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
   description: >
     We published “From bench to bedside via bytes: multi-omic immunoprofiling and integration using machine learning and network approaches” in Human Vaccines and Immunotherapeutics
-  funding: ASH Foundation
+  Date: December 2023
   collaborators: David Scott
   assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
   photo: projects/FCGR2B_cropped.png
@@ -17,7 +17,7 @@
 - name: Resolving clonal structure and evolution patterns in DLBCL
   description: >
     We contributed to “PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition”, which was published in Cell Reports Medicine
-  funding: Terry Fox Research Institute
+  Date: December 2023
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
   photo: projects/DLBCL_Evolution.png
@@ -29,7 +29,7 @@
     profile the tumours to determine at which time point they become resistant. They will then determine how these
     lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
     is successful at eradicating chemo-resistant lymphoma.
-  funding: CIHR
+  Date: November 2023
   collaborators: Christian Steidl, Nathalie Johnson
   assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
   photo: projects/Figure_1_amplicon.png
@@ -37,7 +37,7 @@
 - name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
     We contributed to “SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1”, which was published in The Journal of Infectious Diseases mutations that affect the natural history of MCL including treatment response.
-  funding: Terry Fox Research Institute
+  Date: November 2023
   collaborators: Marco Marra, David Scott, Diego Villa
   assignees: Prasath Pararajalingam, Krysta Coyle
   photo: projects/mcl_oncoplot.png
@@ -45,7 +45,7 @@
 - name: Identification and functional characterization of recurrent non-coding mutations in NHLs
   description: >
        Jishnu gave an invited talk at BMES 2023 on, "Elucidating humoral profiles associated with Schistosomiasis pathogenesis using interpretable machine learning".
-  funding: Terry Fox Research Institute, CIHR
+  Date: October 2023
   collaborators: Christian Steidl, Tim Audas, Peter Unrau
   assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
   photo: projects/NFKBIZ_overview_cropped.png
@@ -53,7 +53,7 @@
 - name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
   description: >
     Jishnu gave an invited talk at BMES 2023 on, "Significant latent factor interaction discovery and exploration across biological domains".
-  funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
+  Date: October 2023
   collaborators: Marco Marra, Louis Staudt
   assignees: Bruno Grande, Aixiang Jiang
   photo: projects/blgsp_ash_2017.jpg
@@ -61,7 +61,7 @@
 - name: Genetic characterization of HIV-associated DLBCL
   description: >
     We published “Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits” in Arthritis & Rheumatology 
-  funding: National Cancer Institute
+  Date: September 2023
   collaborators: Marco Marra, Louis Staudt
   assignees: Nicole Thomas, Bruno Grande
   photo: 
@@ -69,7 +69,7 @@
 - name: Genetic characterization of canine B-cell lymphomas
   description: >
     We contributed to “Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A”, which got published in the Journal of Experimental Medicine. 
-  funding: NSERC
+  Date: September 2023
   collaborators:
   assignees: Kevin Bushell, Jack Hillman, Matt Cheung
   photo: projects/TRAF3.png
