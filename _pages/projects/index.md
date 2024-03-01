@@ -14,7 +14,6 @@ rank: 1
             {% if project.collaborators %}
                 <p><b>Collaborators: </b>{{ project.collaborators }}</p>
             {% endif %}
-            <p>{{ project.description }}</p>
         </li>
     {% endfor %}
     </ul>
