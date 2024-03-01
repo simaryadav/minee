@@ -18,7 +18,6 @@ rank: 1
                 <p><b>Collaborators: </b>{{ project.collaborators }}</p>
             {% endif %}
         </li>
-    {% endif %}
     {% endfor %}
     </ul>
 </div>
