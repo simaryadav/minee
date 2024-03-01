@@ -9,22 +9,14 @@ rank: 1
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for project in site.data.projects %}
-    {% if project.name and project.description %}
         <li>
             <h2>{{ project.name }}</h2>
             {% if project.photo %}
                 <img class="float-right projects-photo" src="{{ project.photo | prepend: site.images_dir | prepend: site.baseurl }}">
             {% endif %}
-            {% if project.date %}
-                <p><b>data: </b>{{ project.date }}</p>
-            {% endif %}
             {% if project.collaborators %}
                 <p><b>Collaborators: </b>{{ project.collaborators }}</p>
             {% endif %}
-            {% if project.assignees %}
-                <p><b>Assignees: </b>{{ project.assignees }}</p>
-            {% endif %}
-            <p>{{ project.description }}</p>
         </li>
     {% endif %}
     {% endfor %}
