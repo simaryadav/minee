@@ -8,7 +8,7 @@ rank: 1
 
 <div class="lab-wrapper">
     <ul class="lab-list">
-    {% for project in site._data.projects %}
+    {% for project in site.data.projects %}
         <li>
             <h2>{{ project.name }}</h2>
             {% if project.photo %}
