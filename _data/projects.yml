@@ -1,75 +1,35 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
-  description: >
-    We published “SLIDE: Significant Latent factor Interaction Discovery and Exploration across biological domains” in Nature Methods
-  Date: February 2024
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
+- name: SLIDE: Significant Latent factor Interaction Discovery and Exploration across biological domains
+  collaborators: Javad Rahimikollu, Hanxi Xiao, AnnaElaine Rosengart, Aaron B. I. Rosen, Tracy Tabib, Paul M. Zdinak, Kun He, Xin Bing, Florentina Bunea, Marten Wegkamp, Amanda C. Poholek, Alok V. Joglekar, Robert A. Lafyatis, Jishnu Das^
   photo: projects/dhitsig.png
 
-- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
-  description: >
-    We published “From bench to bedside via bytes: multi-omic immunoprofiling and integration using machine learning and network approaches” in Human Vaccines and Immunotherapeutics
-  Date: December 2023
-  collaborators: David Scott
-  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
+- name: From bench to bedside via bytes: multi-omic immunoprofiling and integration using machine learning and network approaches
+  collaborators: Hanxi Xiao, Aaron Rosen, Prabal Chhibbar, Lenny Moise^, Jishnu Das^
   photo: projects/FCGR2B_cropped.png
 
-- name: Resolving clonal structure and evolution patterns in DLBCL
-  description: >
-    We contributed to “PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition”, which was published in Cell Reports Medicine
-  Date: December 2023
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
+- name: SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1
+  collaborators: Dylan J Tuttle, Priscila M S Castanha, Amro Nasser, Maris S Wilkins, Tamara García Galarza, Mounia Alaoui-El-Azher, Deirdre E Cuff, Prabal Chhibbar, Jishnu Das, Yijia Li, Simon M Barratt-Boyes, Robbie B Mailliard, Nicolas Sluis-Cremer^, Charles R Rinaldo^, Ernesto T A Marques^     
   photo: projects/DLBCL_Evolution.png
 
-- name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
-  description: >
-    This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
-    that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
-    profile the tumours to determine at which time point they become resistant. They will then determine how these
-    lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
-    is successful at eradicating chemo-resistant lymphoma.
-  Date: November 2023
-  collaborators: Christian Steidl, Nathalie Johnson
-  assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
+- name: The gut protist Tritrichomonas arnold restrains virus-mediated loss of oral tolerance by modulating dietary antigen-presenting dendritic cells
+  collaborators: Luzmariel Medina Sanchez, Magdalena Siller, Yanlin Zeng, Pamela H. Brigleb, Kishan A. Sangani, Ariadna S. Soto, Clarisse Engl, Colin R. Laughlin, Mohit Rana, Lauren Van Der Kraak, Surya P. Pandey, Mackenzie J. Bender, Britney Fitzgerald, Lee Hedden, Kay Fiske, Gwen M. Taylor, Austin P. Wright, Isha D. Mehta, Syed A. Rahman, Heather J. Galipeau Steven J. Mullett, Stacy L. Gelhaus, Simon C. Watkins, Premysl Bercik, Timothy J. Nice, Bana Jabri, Marlies Meisel, Jishnu Das, Terence S. Dermody, Elena F. Verdú, Reinhard Hinterleitner^
   photo: projects/Figure_1_amplicon.png
   
-- name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
-  description: >
-    We contributed to “SARS-CoV-2 mRNA vaccines induce greater complement activation and decreased viremia and Nef antibodies in men with HIV-1”, which was published in The Journal of Infectious Diseases mutations that affect the natural history of MCL including treatment response.
-  Date: November 2023
-  collaborators: Marco Marra, David Scott, Diego Villa
-  assignees: Prasath Pararajalingam, Krysta Coyle
+- name: Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A
+  collaborators: Chelseá B Johnson-Hence, Kathyayini P Gopalakrishna, Darren Bodkin, Kara E Coffey, Ansen H P Burr , Syed Rahman, Ali T Rai, Darryl A Abbott, Yelissa A Sosa, Justin T Tometich, Jishnu Das, Timothy W Hand^ 
   photo: projects/mcl_oncoplot.png
 
-- name: Identification and functional characterization of recurrent non-coding mutations in NHLs
-  description: >
-       Jishnu gave an invited talk at BMES 2023 on, "Elucidating humoral profiles associated with Schistosomiasis pathogenesis using interpretable machine learning".
-  Date: October 2023
-  collaborators: Christian Steidl, Tim Audas, Peter Unrau
-  assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
+- name: PRMT blockade induces defective DNA replication stress response and synergizes with PARP inhibition
+  collaborators: HYang Li, Lacey E Dobrolecki, Christina Sallas, Xudong Zhang, Travis D Kerr, Deepa Bisht, Yalong Wang, Sharad Awasthi, Babita Kaundal, Siqi Wu, Weiyi Peng, Marc L Mendillo, Yiling Lu, Collene R Jeter, Guang Peng, Jinsong Liu, Shannon N Westin, Anil K Sood, Michael T Lewis, Jishnu Das, S Stephen Yi, Mark T Bedford, Daniel J McGrail^, Nidhi Sahni^
   photo: projects/NFKBIZ_overview_cropped.png
 
-- name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
-  description: >
-    Jishnu gave an invited talk at BMES 2023 on, "Significant latent factor interaction discovery and exploration across biological domains".
-  Date: October 2023
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Bruno Grande, Aixiang Jiang
+- name: Cell‐type‐specific biomarkers of systemic sclerosis disease severity capture cell‐intrinsic and cell‐extrinsic circuits
+  collaborators: Berkowitz JS, Tabib T, Xiao H, Sadej GM, Khanna D, Fuschiotti P, Lafyatis RA^, Das J^
   photo: projects/blgsp_ash_2017.jpg
   
-- name: Genetic characterization of HIV-associated DLBCL
-  description: >
-    We published “Cell Type-Specific Biomarkers of Systemic Sclerosis Disease Severity Capture Cell-Intrinsic and Cell-Extrinsic Circuits” in Arthritis & Rheumatology 
-  Date: September 2023
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Nicole Thomas, Bruno Grande
+- name: Antibodies against the Ebola virus soluble glycoprotein are associated with long-term vaccine-mediated protection of non-human primates
+  collaborators: Gunn BM, McNamara RP^, Wood L, Taylor S, Devadhasan A, Guo W, Das J, Nilsson A, Shurtleff A, Dubey S, Eichberg M
   photo: 
 
-- name: Genetic characterization of canine B-cell lymphomas
-  description: >
-    We contributed to “Stability and heterogeneity in the antimicrobiota reactivity of human milk-derived immunoglobulin A”, which got published in the Journal of Experimental Medicine. 
-  Date: September 2023
-  collaborators:
-  assignees: Kevin Bushell, Jack Hillman, Matt Cheung
+- name: High dimensional proteomics identifies organ injury patterns associated with outcomes in human trauma
+  collaborators: Li SR, Moheimani H, Herzig B, Kail M, Krishnamoorthi N, Wu J, Abdelhamid S, Scioscia J, Sung E, Rosengart A, Bonaroti J, Johansson, P, Stensballe J, Neal M, Das J, Kar U, Sperry J, Billiar TR^.
   photo: projects/TRAF3.png
