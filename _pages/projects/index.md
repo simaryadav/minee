@@ -15,8 +15,8 @@ rank: 1
             {% if project.photo %}
                 <img class="float-right projects-photo" src="{{ project.photo | prepend: site.images_dir | prepend: site.baseurl }}">
             {% endif %}
-            {% if project.data %}
-                <p><b>data: </b>{{ project.data }}</p>
+            {% if project.date %}
+                <p><b>data: </b>{{ project.date }}</p>
             {% endif %}
             {% if project.collaborators %}
                 <p><b>Collaborators: </b>{{ project.collaborators }}</p>
