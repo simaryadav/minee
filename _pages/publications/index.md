@@ -85,7 +85,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 [March 2022-Our Essential Regression manuscript was published in Patterns. (link)]
 
-##2021
+## 2021
 
 [September 2021-A NIAID R01 we participated in (Role: co-I, PIs: Rinaldo and Mailliard) looking at COVID-19 vaccine responses in HIV individuals was funded.]
 
@@ -103,7 +103,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 [March 2021-Jishnu gave a talk at the 2021 Cold Spring Harbor Networks Meeting]
 
-##2020
+## 2020
 
 [October 2020-We published Mining for humoral correlates of HIV control and latent reservoir size in PLoS pathogens]
 
