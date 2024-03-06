@@ -6,9 +6,7 @@ toggle: on
 rank: 4
 ---
 
-\*Authors contributed equally<br>
-
-Members of the Morin laboratory indicated in **boldface**
+\*A lot has been happening in life<br>
 
 ## 2024
 
