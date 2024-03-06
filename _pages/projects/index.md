@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Publications
+permalink: /Publications/
 toggle: on
 rank: 1
 ---
