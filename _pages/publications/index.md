@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Projects
+permalink: /projects/
 toggle: on
-rank: 4
+rank: 1
 ---
+
 \*Authors contributed equally<br>
 
 Members of the Morin laboratory indicated in **boldface**
