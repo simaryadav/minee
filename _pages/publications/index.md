@@ -1,9 +1,11 @@
+
+
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Publications
+permalink: /publications/
 toggle: on
-rank: 1
+rank: 4
 ---
 
 \*Authors contributed equally<br>
