@@ -160,7 +160,7 @@
 - name: INstruct: a database of high-quality 3D structurally resolved protein interactome networks
   collaborators: Meyer M.*, Das J.*, Wang X.*, Yu H.
 
-- name: Dissecting disease inheritance modes in a 3D protein network challenges the "guilt-by-association" principle
+- name: Dissecting disease inheritance modes in a 3D protein network challenges the guilt-by-association principle
   collaborators: Guo Y., Wei X., Das J., Grimson A., Lipkin S.M., Clark A.G., Yu H.
 
 - name: HINT: High quality interactomes and their applications in understanding human disease
