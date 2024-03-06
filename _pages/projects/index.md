@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Projects
+permalink: /projects/
 toggle: on
-rank: 4
+rank: 1
 ---
 
 <div class="lab-wrapper">
