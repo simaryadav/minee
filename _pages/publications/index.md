@@ -1,9 +1,7 @@
-
-
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: News
+permalink: /News/
 toggle: on
 rank: 4
 ---
