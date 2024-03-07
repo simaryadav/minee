@@ -151,23 +151,3 @@
 - name: Predicting cancer prognosis using functional genomics datasets
   collaborators: Das J, Gayvert K.M, Yu H
 
-- name: Cross-species protein interactome mapping reveals species-specific wiring of stress response pathways
-  collaborators: Das J, Vo T.V, Wei X, Mellor J.C, Tong V, Degatano A.G, Wang X, Wang L, Cordero N.A, Kruer-Zerhusen N, Matsuyama A, Pleiss J.A, Lipkin S.M, Yoshida M, Roth F.P, Yu H
-
-- name: Integrative annotation of variants from 1,092 humans: application to cancer genomics
-  collaborators: Khurana E, Fu Y, Colonna V, Mu X.J, Kang H.M, Lappalainen T, Sboner A, Lochovsky L, Chen J, Harmanci A, Das J, Abyzov A, Balasubramanian S, Beal K, Chakravarty D, Challis D, Chen Y, Clarke D, Clarke L, Cunningham F, Evani U.S, Flicek P, Fragoza R, Garrison E, Gibbs R, Gümüş Z.H, Herrero J, Kitabayashi N, Kong Y, Lage K, Liluashvili V, Lipkin S.M, MacArthur D.G, Marth G, Muzny D, Pers T.H, Ritchie G.R.S, Rosenfeld J.A, Sisu C, Wei X, Wilson M, Xue Y, Yu F, Dermitzakis E.T, Yu H, Rubin M.A, Tyler-Smith C, Gerstein M
-
-- name: INstruct - a database of high-quality 3D structurally resolved protein interactome networks
-  collaborators: Meyer M*, Das J*, Wang X*, Yu H
-
-- name: Dissecting disease inheritance modes in a 3D protein network challenges the guilt-by-association principle
-  collaborators: Guo Y, Wei X, Das J, Grimson A, Lipkin S.M, Clark A.G, Yu H
-
-- name: HINT- High-quality interactomes and their applications in understanding human disease
-  collaborators: Das J and Yu H
-
-- name: Genome-scale analysis of interaction dynamics reveals organization of biological networks
-  collaborators: Das J, Mohammed J, Yu H
-
-- name: Three-dimensional reconstruction of protein networks provides insight into human genetic disease
-  collaborators: Wang X*, Wei X*, Thijssen B*, Das J*, Lipkin S.M, Yu H
