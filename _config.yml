@@ -11,7 +11,7 @@ url: "https://simaryadav.github.io"
 twitter_username: simaryadav
 github_username:  simaryadav
 images_dir: "/images/"
-theme: jekyll-theme-architect
+remote_theme: dieghernan/chulapa
 # Build settings
 markdown: kramdown
 include: ["_pages"]
