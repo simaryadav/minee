@@ -1,11 +1,46 @@
 ---
 layout: default
+title: Writing
+description: Gerous blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
 ---
 
-<div class="lab-photo">
-    <img src="{{ 'team/IMG_1758.JPG' | prepend: site.images_dir | prepend: site.baseurl }}" style="width: 70%; display: block; margin: 0 auto;"/>
+<div class="container">
+  <div class="page-section-head">
+    {% if page.title %}
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% endif %}
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="explore-tags">
+    <h2>Explore:</h2>
+    <div class="tag-cloud">
+      {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+      {% assign tag_words = site_tags | split:',' | sort %}
+      {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+      <a href="{{ site.baseurl }}/tags/?tag={{ this_word | cgi_escape }}">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a>
+      {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
 </div>
 
-<article class="post-content">
-    As a computational systems immunology lab, our research focuses on the development and use of novel systems approaches to analyze high-dimensional immunological datasets, and elucidate molecular mechanisms of immunological disorders. We are currently working on using network systems and functional genomic approaches to perform multi-scale integration of genomic and epigenomic datasets with biological networks to identify molecular phenotypes underlying these immunological disorders. We also use statistical and machine-learning techniques to integrate multi-omic datasets (genomic, transcriptomic, proteomic, metabolomic and antibody-omic) and elucidate molecular mechanisms of immune regulation and dysregulation.
-</article>
+<section class="section">
+  <div class="container">
+    <div class="row grid">
+    {% if site.posts.size > 0 %}
+      {% for post in paginator.posts offset:0 %}
+        {% include article.html %}
+      {% endfor %}
+    {% endif %}
+    </div>
+  </div>
+  {% include pagination.html %}
+</section>
+
+{% include section-faq.html %}
+
+{% include section-subscribe.html %}
